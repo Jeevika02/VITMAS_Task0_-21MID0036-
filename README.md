@@ -30,3 +30,5 @@ This command is used to merge the specified branch?s history into the current br
 This command is used to check the commit history.
 ## 12.git remote
 Git Remote command is used to connect your local repository to the remote server.
+##### Demonstration video link:
+https://youtu.be/J9ETP1BKqvc
